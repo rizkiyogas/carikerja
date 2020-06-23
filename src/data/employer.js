@@ -82,5 +82,12 @@ module.exports = [
     link: 'https://www.linkedin.com/posts/widya-indonesia_pt-widya-inovasi-indonesia-is-looking-for-activity-6679343010666442753-nZt-',
     description:
       'WII bergerak di bidang Artificial Intelligence dan Internet of Things. Bertempat di Yogyakarta.'
+  },
+  {
+    name: 'DKatalis Jakarta Tech Hub',
+    category: 'fintech',
+    link: 'https://www.linkedin.com/company/dkatalis/jobs/',
+    description:
+      'Based out of Jakarta, Singapore and Pune. Created by visionaries who brought you the first banking reinvented in Indonesia, DK aspires to create the most valuable digital financial service at the back of Go-ecosystem and beyond.'
   }
 ];
